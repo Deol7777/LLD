@@ -1,0 +1,8 @@
+# Compiled Java bytecode
+*.class
+
+# Build output dirs
+out/
+bin/
+target/
+CLAUDE.md
